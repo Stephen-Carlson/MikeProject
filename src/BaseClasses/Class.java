@@ -4,12 +4,12 @@ abstract class Class{
     private int hitDie;
     private int level;
     //public fields
-    public Class(int hd){
+    public Class(){
         hitDie = hd;
     }
-    abstact level(int l);
+
 }
-public Fighter extends Class{
+public class Fighter extends Class{
 //private fields
 //public fields
 public Fighter(){
