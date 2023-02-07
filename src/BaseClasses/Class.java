@@ -4,138 +4,82 @@ abstract class Class{
     private int hitDie;
     private int level;
     //public fields
-    public Class(){
-        hitDie = hd;
-    }
+    public Class(int hd){hitDie = hd;}
+    public abstract void level();
+    public void setHidDie(int h){hitdie = h;}
+    public int getHitDie(){return hitDie;}
+    public void setLevel(int l){level = l;}
+    public int getLevel(){return level;}
 
 }
-public class Fighter extends Class{
+class Artificer extends Class{
+        //private fields
+        //public fields
+                public Artificer(){super();}
+        }
+
+class Barbarian extends Class{
+        //private fields
+        //public fields
+                public Barbarian(){super(12);}
+        }
+class Bard extends Class{
 //private fields
 //public fields
-public Fighter(){
-        Class(10);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public Barbarian extends Class{
+        public Bard(){super(8);}
+}
+class BloodHunter extends Class{
 //private fields
 //public fields
-public Barbarian(){
-        Class(12);
+        public BloodHunter(){super();}
+}
+class Cleric extends Class{
+        //private fields
+        //public fields
+                public Cleric(){super(8);}
         }
-public level(int l){
-        level = l;
-        }
-        }
-public Monk extends Class{
+class Druid extends Class{
 //private fields
 //public fields
-public Monk(){
-        Class(8);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public Ranger extends Class{
+        public Druid(){super(8);}
+}
+class Fighter extends Class{
 //private fields
 //public fields
-public Ranger(){
-        Class(10);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public Druid extends Class{
+        public Fighter(){super(10);}
+}
+class Monk extends Class{
 //private fields
 //public fields
-public Druid(){
-        Class(8);
+        public Monk(){super(8);}
+}
+class Paladin extends Class{
+        //private fields
+        //public fields
+                public Paladin(){super(10);}
         }
-public level(int l){
-        level = l;
+class Ranger extends Class{
+        //private fields
+        //public fields
+                public Ranger(){super(10);}
         }
-        }
-public Warlock extends Class{
+class Rogue extends Class{
 //private fields
 //public fields
-public Warlock(){
-        Class(8);
+        public Rogue(){super(8);}
+}
+class Sorcerer extends Class{
+        //private fields
+        //public fields
+                public Sorcerer(){super(6);}
         }
-public level(int l){
-        level = l;
-        }
-        }
-public Sorcerer extends Class{
+class Warlock extends Class{
 //private fields
 //public fields
-public Sorcerer(){
-        Class(6);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public Wizard extends Class{
-//private fields
-//public fields
-public Wizard(){
-        Class(6);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public Artificer extends Class{
-//private fields
-//public fields
-public Artificer(){
-        Class(8);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public Bard extends Class{
-//private fields
-//public fields
-public Bard(){
-        Class(8);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public Cleric extends Class{
-//private fields
-//public fields
-public Cleric(){
-        Class(8);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public Rogue extends Class{
-//private fields
-//public fields
-public Rogue(){
-        Class(8);
-        }
-public level(int l){
-        level = l;
-        }
-        }
-public BloodHunter extends Class{
-//private fields
-//public fields
-public BloodHunter(){
-        Class(10);
-        }
-public level(int l){
-        level = l;
-        }
+        public Warlock(){super(8);}
+}
+class Wizard extends Class{
+        //private fields
+        //public fields
+                public Wizard(){super(6);}
         }
