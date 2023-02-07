@@ -71,7 +71,6 @@ public class Character{
         }
     }
     public int getProfBonus(){return profBonus;}
-    public void setSpellSaveDC(){}
     public int getSpellSaveDC(){return SpellSaveDC;}
     //Other Methods
     public String toString(){
