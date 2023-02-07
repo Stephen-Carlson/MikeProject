@@ -1,5 +1,4 @@
 package BaseClasses;
-
 public class Character{
     //Private Fields
     private String name;
@@ -32,7 +31,7 @@ public class Character{
     }
     //Getters & Setters
     public String getName(){return name;}
-    public PlayerClass getPlayerClass(){return Class;}
+    public PlayerClass getPlayerClass(){return PlayerClasses[0];}
     public int[] getScores(){return new int[] {StrScore, DexScore, ConScore, IntScore, WisScore, ChaScore};}
     public void setMaxHP(int h){MaxHP = h;}
     public int getMaxHP(){return MaxHP;}
