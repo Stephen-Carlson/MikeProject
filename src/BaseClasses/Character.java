@@ -3,7 +3,7 @@ package BaseClasses;
 public class Character{
     //Private Fields
     private String name;
-    private Class Class;
+    private PlayerClass[] PlayerClasses;
     private int ChaScore;
     private int DexScore;
     private int IntScore;
@@ -14,21 +14,9 @@ public class Character{
     private int MaxHP;
     private int CurrentHP;
     private int TempHP;
+    private int profBonus;
+    private int TotalLevel;
     //Public
-    public Character(){
-        ChaScore = 8;
-        DexScore = 8;
-        IntScore = 8;
-        StrScore = 8;
-        ConScore = 8;
-        WisScore = 8;
-        AC = 10;
-        MaxHP = 20;
-        CurrentHP = MaxHP;
-        TempHP = 0;
-        Class = "Fighter";
-        name = "Pendelton"
-    }
     public Character(int str, int dex, int con, int intel,int wis, int cha, int hp, int ac){
         StrScore = str;
         DexScore = dex;
@@ -38,29 +26,50 @@ public class Character{
         ChaScore = cha;
         MaxHP = hp;
         AC = ac;
+        PlayerClasses = new PlayerClass[] {};
+        TotalLevel = 0;
     }
     //Getters & Setters
-    public String getName(){
-        return name;
+    public String getName(){return name;}
+    public PlayerClass getPlayerClass(){return Class;}
+    public int[] getScores(){return new int[] {StrScore, DexScore, ConScore, IntScore, WisScore, ChaScore};}
+    public void setMaxHP(int h){MaxHP = h;}
+    public int getMaxHP(){return MaxHP;}
+    public void setCurrentHP(int h){CurrentHP = h;}
+    public int getCurrentHP(){return CurrentHP;}
+    public void setTempHP(int h){TempHP = h;}
+    public int getTempHP(){return TempHP;}
+    public void SetProfBonus(){
+        for(PlayerClass c:PlayerClasses){
+            TotalLevel += c.getLevel();
+        }
+        switch(TotalLevel){
+            case TotalLevel >=4:{
+                profBonus = 2;
+            }
+            break;
+            case TotalLevel > 4 && TotalLevel <= 8:{
+                profBonus = 3;
+            }
+            break;
+            case TotalLevel > 8 && TotalLevel <= 12:{
+                profBonus = 4;
+            }
+            break;
+            case TotalLevel > 12 && TotalLevel <= 16:{
+                profBonus = 6;
+            }
+            break;
+            case TotalLevel > 16:{
+                profBonus = 5;
+            }
+            break;
+        }
     }
-    public String getClass(){
-        return Class;
-    }
-    public int[] getScores(){
-        return [StrScore, DexScore, ConScore, IntScore, WisScore, ChaScore]
-    }
-    public int getMaxHP(){
-        return MaxHP;
-    }
-    public int getCurrentHP(){
-        return CurrentHP;
-    }
-    public int getTempHP(){
-        return TempHP;
-    }
+    //Other Methods
     public String[] export(){
-        String[] output = new String[];
+        String[] output = new String[] {};
         output[0] = this.getName();
-        output[1] = this.getClass()
+        output[1] = this.getClass();
     }
 }
