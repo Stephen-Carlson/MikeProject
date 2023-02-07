@@ -11,6 +11,7 @@ public class Character{
     private int ConScore;
     private int WisScore;
     private int AC;
+    private int SpellSaveDC;
     private int MaxHP;
     private int CurrentHP;
     private int TempHP;
@@ -39,7 +40,10 @@ public class Character{
     public int getCurrentHP(){return CurrentHP;}
     public void setTempHP(int h){TempHP = h;}
     public int getTempHP(){return TempHP;}
+    public void setAC(int a){AC = a;}
+    public int getAC(){return AC;}
     public void SetProfBonus(){
+
         for(PlayerClass c:PlayerClasses){
             TotalLevel += c.getLevel();
         }
@@ -66,10 +70,11 @@ public class Character{
             break;
         }
     }
+    public int getProfBonus(){return profBonus;}
+    public void setSpellSaveDC(){}
+    public int getSpellSaveDC(){return SpellSaveDC;}
     //Other Methods
-    public String[] export(){
-        String[] output = new String[] {};
-        output[0] = this.getName();
-        output[1] = this.getClass();
+    public String toString(){
+        return this.getName()+','+this.getClass().toString()+','+this.ChaScore+','+this.DexScore+','+this.IntScore+','+this.StrScore+','+this.ConScore+','+this.WisScore+','+this.getAC()+' '+this.getMaxHP()+' '+this.getCurrentHP()+' '+this.getTempHP()+' '+this.getProfBonus();
     }
 }
