@@ -8,7 +8,7 @@ public class Party{
     //public methods
     public Party(){
         Name = "";
-        Players = new Hashtable<String, Character>;
+        Players = new Hashtable<String, Character>();
     }
     public Party(Character[] p){
         for(int i = 0; i<p.length; ++i){

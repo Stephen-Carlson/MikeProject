@@ -15,7 +15,7 @@ public class Character{
     private int CurrentHP;
     private int TempHP;
     private int profBonus;
-    private int TotalLevel;
+    //private int TotalLevel;
     //Public
     public Character(int str, int dex, int con, int intel,int wis, int cha, int hp, int ac){
         StrScore = str;
@@ -27,7 +27,7 @@ public class Character{
         MaxHP = hp;
         AC = ac;
         PlayerClasses = new PlayerClass[] {};
-        TotalLevel = 0;
+        //TotalLevel = 0;
     }
     //Getters & Setters
     public String getName(){return name;}
@@ -41,34 +41,34 @@ public class Character{
     public int getTempHP(){return TempHP;}
     public void setAC(int a){AC = a;}
     public int getAC(){return AC;}
-    public void SetProfBonus(){
+    // public void SetProfBonus(){
 
-        for(PlayerClass c:PlayerClasses){
-            TotalLevel += c.getLevel();
-        }
-        switch(TotalLevel){
-            case TotalLevel >=4:{
-                profBonus = 2;
-            }
-            break;
-            case TotalLevel > 4 && TotalLevel <= 8:{
-                profBonus = 3;
-            }
-            break;
-            case TotalLevel > 8 && TotalLevel <= 12:{
-                profBonus = 4;
-            }
-            break;
-            case TotalLevel > 12 && TotalLevel <= 16:{
-                profBonus = 6;
-            }
-            break;
-            case TotalLevel > 16:{
-                profBonus = 5;
-            }
-            break;
-        }
-    }
+    //     for(PlayerClass c:PlayerClasses){
+    //         TotalLevel += c.getLevel();
+    //     }
+    //     switch(TotalLevel){
+    //         case TotalLevel >=4:{
+    //             profBonus = 2;
+    //         }
+    //         break;
+    //         case TotalLevel > 4 && TotalLevel <= 8:{
+    //             profBonus = 3;
+    //         }
+    //         break;
+    //         case TotalLevel > 8 && TotalLevel <= 12:{
+    //             profBonus = 4;
+    //         }
+    //         break;
+    //         case TotalLevel > 12 && TotalLevel <= 16:{
+    //             profBonus = 6;
+    //         }
+    //         break;
+    //         case TotalLevel > 16:{
+    //             profBonus = 5;
+    //         }
+    //         break;
+    //     }
+    //}
     public int getProfBonus(){return profBonus;}
     public int getSpellSaveDC(){return SpellSaveDC;}
     //Other Methods
