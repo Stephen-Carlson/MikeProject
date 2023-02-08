@@ -1,5 +1,4 @@
 package Tools;
-
 //import java.io.IOException;
 //import java.util.ArrayList;
 import java.io.IOException;
@@ -64,4 +63,3 @@ public class ItemScraper {
     System.out.println(completeItems.get("Piton"));
   }
   }
-
