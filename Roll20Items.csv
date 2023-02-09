@@ -1,0 +1,772 @@
+Item Name|AttributeName0|AttributeValue0|AttributeName1|AttributeValue1|AttributeName2|AttributeValue2|AttributeName3|AttributeValue3|AttributeName4|AttributeValue4|AttributeName5|AttributeValue5|AttributeName6|AttributeValue6|AttributeName7|AttributeValue7|AttributeName8|AttributeValue8|AttributeName9|AttributeValue9|AttributeName10|AttributeValue10
+Vicious Hand Crossbow|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d6|Properties|Light, Loading, Range|Range|30/120|Weight|3
+Piton|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|0.25
+Shield|AC|2|Item Rarity|Standard|Item Type|Shield|Subtype|Shield|Weight|6
+Talisman of Ultimate Evil|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Ring of Warmth|Item Rarity|Uncommon|Item Type|Ring|Subtype|Ring
+Immovable Rod|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Rod|Weight|2
+Potion of Cold Resistance|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Decanter of Endless Water|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|2
+Boots of the Winterlands|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Feet
+Glaive|Damage Type|Slashing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Subtype|Martial, Glaive|Weight|6
+Helm of Teleportation|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Head
+Rod of Absorption|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Rod|Weight|2
+Potion of Thunder Resistance|Item Type|Adventuring Gear|Weight|0.5
+Sovereign Glue|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Splint Armor of Force Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Potion of Lightning Resistance|Item Type|Adventuring Gear|Weight|0.5
+Tent|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|20
+Half Plate Armor of Acid Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Potion of Invulnerability|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Scimitar of Speed|Damage Type|Slashing|Item Rarity|Very Rare|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Subtype|Martial, Sword|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|3
+Dulcimer|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|10
+Ball bearings|Target|Each creature in a 10-foot square centered on a point within range|Save|Dexterity|Item Type|Adventuring Gear|Weight|2
+Studded Leather Armor of Cold Resistance|AC|12|Item Type|Light Armor|Weight|13
+Helm of Brilliance|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Head
+Javelin|Damage Type|Piercing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown|Range|30/120|Subtype|Simple, Javelin|Weight|2
+Vicious Dagger|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Light, Range, Thrown|Range|20/60|Weight|1
+Hunting trap|Damage Type|Piercing|Item Rarity|Standard|Save|Dexterity|Item Type|Adventuring Gear|Damage|1d4|Weight|25
+Chain Mail of Acid Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Scimitar|Damage Type|Slashing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Subtype|Martial, Sword|Weight|3
+Carpenter's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|6
+light hammer +3|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d4|Properties|Light, Thrown|Range|20/60|Modifiers|Melee Attacks +3, Melee Damage +3
+Cloak of Protection|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Shoulders|Modifiers|Ac +1, Saving Throws +1
+Giant Slayer|Item Type|Weapon (any axe or sword)
+Rope of Climbing|Item Rarity|Uncommon|Item Type|Adventuring Gear|Weight|3
+Half Plate Armor of Poison Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Sun Blade|Requires Attunement|requires attunement|Damage Type|Radiant|Item Rarity|Rare|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Finesse, Versatile|Subtype|Sword, Martial|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|3
+Scholar's Pack|Item Rarity|Standard|Subtype|Equipment Pack
+Bracers of Archery|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Arms
+Heavy Crossbow|Damage Type|Piercing|Item Rarity|Standard|Item Type|Ranged Weapon|Damage|1d10|Properties|Heavy, Loading, Range, Two-Handed|Range|100/400|Subtype|Martial, Crossbow|Weight|18
+Mirror of Life Trapping|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|50
+Ring Mail|AC|14|Item Rarity|Standard|Stealth|Disadvantage|Item Type|Heavy Armor|Subtype|Armor|Weight|40
+Tome of Understanding|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|5
+Lyre|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|2
+Spiked Armor of Thunder Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Silk rope|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|5
+Vicious Halberd|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Weight|6
+Greatclub|Damage Type|Bludgeoning|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d8|Properties|Two-Handed|Subtype|Simple, Club|Weight|10
+Sword of Life Stealing|Item Type|Sword
+Chain Mail|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Subtype|Armor|Weight|55
+War Pick +3|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|2
+Dart +3|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d4|Properties|Finesse, Range, Thrown|Range|20/60|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|0.25
+Dart +2|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d4|Properties|Finesse, Range, Thrown|Range|20/60|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|0.25
+War Pick +2|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|2
+War Pick +1|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|2
+Hide Armor of Poison Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Eyes of Minute Seeing|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Eyes
+Rod of Security|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Rod|Weight|2
+Wand of Paralysis|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Dart +1|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d4|Properties|Finesse, Range, Thrown|Range|20/60|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|0.25
+Half Plate Armor of Psychic Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Chain Mail of Psychic Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Shield of Missile Attraction|AC|2|Item Rarity|Rare|Item Type|Shield|Subtype|Shield|Weight|6
+Reliquary|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|2
+Half Plate Armor of Lightning Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Wooden Shield|AC|2|Item Rarity|Standard|Item Type|Shield|Subtype|Shield|Weight|6
+Potion of Animal Friendship|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Armor of Invulnerability|AC|18|Item Rarity|Legendary|Stealth|Disadvantage|Item Type|Heavy Armor|Subtype|Armor|Weight|65
+Mace +3|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d6|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|4
+Mace +2|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d6|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|4
+Plate Armor|AC|18|Item Rarity|Standard|Stealth|Disadvantage|Item Type|Heavy Armor|Subtype|Armor|Weight|65
+Mace +1|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d6|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|4
+Mace of Smiting|Damage Type|Bludgeoning|Item Rarity|Rare|Item Type|Melee Weapon|Damage|1d6|Subtype|Simple, Mace|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|4
+Vorpal Longsword|Damage Type|Slashing|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|3
+Rod of Alertness|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Rod|Weight|2
+Vicious Greatsword|Damage Type|Slashing|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Weight|6
+Candle|Duration|1 Hour|Item Type|Adventuring Gear|Range|5/10
+Bagpipes|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|6
+Tinderbox|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Potion of Fire Resistance|Item Type|Adventuring Gear|Weight|0.5
+Club|Damage Type|Bludgeoning|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Subtype|Simple|Weight|2
+Studded Leather Armor +1|AC|12|Item Type|Light Armor|Modifiers|Ac +1|Weight|13
+Studded Leather Armor +3|AC|12|Item Type|Light Armor|Modifiers|Ac +3|Weight|13
+Mess kit|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Studded Leather Armor +2|AC|12|Item Type|Light Armor|Modifiers|Ac +2|Weight|13
+Spiked Armor of Acid Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Bag of Beans|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|0.5
+Chain Shirt of Necrotic Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Potion of Poison|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Splint Armor of Necrotic Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Potion of Force Resistance|Item Type|Adventuring Gear|Weight|0.5
+Ring of Fire Resistance|Item Type|Ring
+Wand of Lightning Bolts|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Rod of Rulership|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Rod|Weight|2
+Mithral Armor|Item Type|Armor
+Breastplate of Acid Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Spiked Armor of Radiant Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Mace|Damage Type|Bludgeoning|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d6|Subtype|Simple, Mace|Weight|4
+Fishing tackle|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|4
+Bedroll|Item Type|Adventuring Gear|Weight|7
+Bucket|Item Type|Adventuring Gear|Weight|2
+Ring Mail of Force Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Iron Flask|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|1
+Luck Blade|Item Type|Sword
+Bell|Item Type|Adventuring Gear
+Splint Armor of Radiant Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Breastplate of Fire Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Vicious Light Hammer|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d4|Properties|Light, Range, Thrown|Range|20/60|Weight|2
+Orb of Dragonkind|Item Rarity|Artifact|Item Type|Adventuring Gear|Subtype|Wondrous Item, Artifact
+Chain Shirt of Acid Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Breastplate of Poison Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Scale Mail of Psychic Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Demon Armor|AC|18|Item Rarity|Very Rare|Stealth|Disadvantage|Item Type|Heavy Armor|Subtype|Cursed Item, Armor|Modifiers|Ac +1|Weight|65
+Manual of Golems|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Boots of Levitation|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Feet
+Periapt of Wound Closure|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Nine Lives Stealer|Item Type|Sword
+Hide Armor of Fire Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Lock|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Longbow +3|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d8|Properties|Heavy, Range, Two-Handed|Range|150/600|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|2
+Wooden staff|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Arcane Focus|Weight|4
+Longbow +1|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d8|Properties|Heavy, Range, Two-Handed|Range|150/600|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|2
+Longbow +2|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d8|Properties|Heavy, Range, Two-Handed|Range|150/600|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|2
+Spiked Armor of Necrotic Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Vicious Greatclub|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d8|Properties|Two-Handed|Weight|10
+Leather Armor of Force Resistance|AC|11|Item Type|Light Armor|Weight|10
+Net|Item Rarity|Standard|Item Type|Ranged Weapon|Properties|Range, Thrown|Range|5/15|Subtype|Martial, Net|Weight|3
+Manual of Quickness of Action|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|5
+Horn|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|2
+Staff of Fire|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Scale Mail of Radiant Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Staff of Swarming Insects|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Feather Token|Item Type|Adventuring Gear
+Sphere of Annihilation|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Bead of Force|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|0.0625
+Bag of Devouring|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|0.5
+Rod|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Rod|Weight|2
+Staff of Power|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Staff|Modifiers|Ac +2, Saving Throws +2, Spell Attack +2|Weight|4
+Splint Armor of Psychic Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Ring Mail of Poison Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Dimensional Shackles|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Wand of Magic Missiles|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Splint Armor of Cold Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Eyes of the Eagle|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Eyes
+Arrows +1|Item Type|Ammunition|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|0.05
+Arrows +2|Item Type|Ammunition|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|0.05
+Arrows +3|Item Type|Ammunition|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|0.05
+Studded Leather Armor of Necrotic Resistance|AC|12|Item Type|Light Armor|Weight|13
+Padded Armor of Lightning Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Blanket|Item Type|Adventuring Gear|Weight|3
+Jeweler's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|2
+Explorer's Pack|Item Rarity|Standard|Subtype|Equipment Pack
+Universal Solvent|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Greatsword|Damage Type|Slashing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Subtype|Martial, Sword|Weight|6
+Spiked Armor of Lightning Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Studded Leather Armor of Radiant Resistance|AC|12|Item Type|Light Armor|Weight|13
+Stone of Good Luck|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item|Modifiers|Saving Throws +1, Ability Checks +1
+Playing card set|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Gaming Set
+Scale Mail of Lightning Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Brewer's Supplies|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|9
+Vicious Rapier|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Properties|Finesse|Weight|2
+Half Plate Armor of Fire Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Lute|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|2
+Gem of Seeing|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|1
+Quiver|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Vicious Javelin|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown|Range|30/120|Weight|2
+Gauntlets of Ogre Power|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Hands|Modifiers|Strength: 19
+Sling|Damage Type|Bludgeoning|Item Rarity|Standard|Item Type|Ranged Weapon|Damage|1d4|Properties|Range|Range|30/120|Subtype|Simple, Sling
+Scarab of Protection|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Rod of Lordly Might|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Rod|Weight|2
+Morningstar|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Subtype|Martial, Morningstar|Weight|4
+Breastplate of Lightning Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Chain Mail of Fire Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Ring of Poison Resistance|Item Type|Ring
+Plate Armor of Fire Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Chain Shirt of Radiant Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Dagger of Venom|Damage Type|Piercing|Item Rarity|Rare|Save|Constitution|Secondary Damage|2d10|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Light, Range, Thrown|Range|20/60|Subtype|Simple, Dagger|Modifiers|Weapon Attacks +1, Weapon Damage +1|Weight|1
+Ring Mail of Psychic Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Ring Mail +2|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +2|Weight|40
+Leather Armor|AC|11|Item Rarity|Standard|Item Type|Light Armor|Subtype|Armor|Weight|10
+Ring Mail +3|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +3|Weight|40
+Mace of Disruption|Damage Type|Bludgeoning|Item Rarity|Rare|Secondary Damage|2d6|Item Type|Melee Weapon|Damage|1d6|Subtype|Simple, Mace|Weight|4
+Dagger|Damage Type|Piercing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Light, Range, Thrown|Range|20/60|Subtype|Simple, Dagger|Weight|1
+Censer of Controlling Air Elementals|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|1
+Potion of Healing|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Potion of Acid Resistance|Item Type|Potion|Weight|0.5
+Staff of the Magi|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Staff|Modifiers|Spell Attack +2|Weight|4
+Chain Mail of Radiant Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Rapier|Damage Type|Piercing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d8|Properties|Finesse|Subtype|Martial, Sword|Weight|2
+Vicious Shortbow|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d6|Properties|Range, Two-Handed|Range|80/320|Weight|2
+Shortsword +1|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|2
+Shortsword +3|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|2
+Broom of Flying|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|3
+Blowgun Needles|Item Type|Ammunition|Subtype|Ammunition|Weight|0.02
+Chain Mail of Lightning Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Shortsword +2|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|2
+Sprig of mistletoe|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Druidic Focus
+Iron pot|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|10
+Gem of Brightness|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|1
+Leather Armor of Fire Resistance|AC|11|Item Type|Light Armor|Weight|10
+Vicious Handaxe|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Light, Range, Thrown|Range|20/60|Weight|2
+Plate Armor of Necrotic Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Javelin of Lightning|Damage Type|Piercing|Item Rarity|Uncommon|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown|Range|30/120|Subtype|Simple, Javelin|Weight|2
+Padded Armor|AC|11|Item Rarity|Standard|Stealth|Disadvantage|Item Type|Light Armor|Subtype|Armor|Weight|8
+Vicious Mace|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d6|Weight|4
+Breastplate of Psychic Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Hide Armor of Thunder Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Bowl of Commanding Water Elementals|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|3
+Pipes of the Sewers|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Musical Instrument|Weight|2
+Scale Mail of Thunder Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Block and tackle|Item Type|Adventuring Gear|Weight|5
+Unarmed Strike|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1
+Hat of Disguise|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Head
+Manacles|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|6
+Warhammer|Damage Type|Bludgeoning|Alternate Damage|1d10|Item Rarity|Standard|Item Type|Melee Weapon|Alternate Damage Type|Bludgeoning|Damage|1d8|Properties|Versatile|Subtype|Martial, Hammer|Weight|2
+Flail|Damage Type|Bludgeoning|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d8|Subtype|Martial, Flail|Weight|2
+Spell Scroll|Item Rarity|Standard|Item Type|Scroll
+Cloak of Arachnida|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wondrous Item, Shoulders
+Rope of Entanglement|Item Rarity|Rare|Item Type|Adventuring Gear|Weight|3
+Folding Boat|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|4
+Pipes of Haunting|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Musical Instrument|Weight|2
+Light Crossbow|Damage Type|Piercing|Item Rarity|Standard|Item Type|Ranged Weapon|Damage|1d8|Properties|Loading, Range, Two-Handed|Range|80/320|Subtype|Simple, Crossbow|Weight|5
+Wings of Flying|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Ring of Three Wishes|Item Rarity|Legendary|Item Type|Ring|Subtype|Ring
+Plate Armor of Lightning Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Vicious Club|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Weight|2
+Padded Armor of Radiant Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Vicious Battleaxe|Damage Type|Slashing|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Weight|4
+Fine clothes|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Clothing|Weight|6
+Crystal|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Arcane Focus|Weight|1
+Burglar's Pack|Item Rarity|Standard|Subtype|Equipment Pack
+Studded Leather Armor of Lightning Resistance|AC|12|Item Type|Light Armor|Weight|13
+Glass bottle|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|2
+Vicious Lance|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d12|Properties|Reach|Weight|6
+Splint Armor of Acid Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Hammer of Thunderbolts|Damage Type|Bludgeoning|Item Rarity|Legendary|Secondary Damage|2d6|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Subtype|Martial, Maul, Hammer|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|10
+Staff of Healing|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Apparatus of the Crab|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Halberd|Damage Type|Slashing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d10|Properties|Reach, Two-Handed|Subtype|Martial, Halberd|Weight|6
+Ring Mail +1|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +1|Weight|40
+Padded Armor of Poison Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Iron spikes|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|0.5
+Plate Armor +1|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +1|Weight|65
+Plate Armor +3|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +3|Weight|65
+Plate Armor +2|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +2|Weight|65
+Ring of Psychic Resistance|Item Type|Ring
+Healer's kit|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|3
+Potion of Water Breathing|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Staff of Frost|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Leather Armor of Necrotic Resistance|AC|11|Item Type|Light Armor|Weight|10
+Chain Shirt of Poison Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Splint Armor of Thunder Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Arrow-Catching Shield|AC|2|Item Rarity|Rare|Item Type|Shield|Subtype|Shield|Weight|6
+Lantern of Revealing|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|2
+Forgery kit|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|5
+Breastplate of Cold Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Padded Armor of Acid Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Ring Mail of Radiant Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Sealing wax|Item Rarity|Standard|Item Type|Adventuring Gear
+Animated Shield|AC|2|Item Rarity|Very Rare|Item Type|Shield|Subtype|Shield|Weight|6
+Ring of Radiant Resistance|Item Type|Ring
+Breastplate +1|AC|14|Item Type|Medium Armor|Modifiers|Ac +1|Weight|20
+Breastplate +2|AC|14|Item Type|Medium Armor|Modifiers|Ac +2|Weight|20
+Breastplate +3|AC|14|Item Type|Medium Armor|Modifiers|Ac +3|Weight|20
+Chain Shirt of Psychic Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Ring of Acid Resistance|Item Type|Ring
+Goggles of Night|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Eyes
+Rations|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|2
+Dragon Scale Mail|Item Rarity|Very Rare|Item Type|Medium Armor
+Belt of Giant Strength|Item Rarity|Rarity varies|Item Type|Adventuring Gear|Subtype|Wondrous Item, Belt|Modifiers|Strength: 21
+Ring of Evasion|Item Rarity|Rare|Item Type|Ring|Subtype|Ring
+Potion of Diminution|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Sling bullets|Item Rarity|Standard|Item Type|Ammunition|Subtype|Ammunition|Weight|0.075
+Ring Mail of Necrotic Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Padded Armor of Cold Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Potion of Gaseous Form|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Ring of Telekinesis|Item Rarity|Very Rare|Item Type|Ring|Subtype|Ring
+Studded Leather Armor of Thunder Resistance|AC|12|Item Type|Light Armor|Weight|13
+Scale Mail of Fire Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Dwarven Thrower|Damage Type|Bludgeoning|Item Rarity|Very Rare|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Range, Thrown, Versatile|Range|20/60|Modifiers|Weapon Attacks +3, Weapon Damage +3|Weight|2
+Lance +2|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d12|Properties|Reach|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|6
+Lance +3|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d12|Properties|Reach|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|6
+Deck of Many Things|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Lance +1|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d12|Properties|Reach|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|6
+Leather Armor of Psychic Resistance|AC|11|Item Type|Light Armor|Weight|10
+Maul|Damage Type|Bludgeoning|Item Rarity|Standard|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Subtype|Martial, Maul|Weight|10
+Sack|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|0.5
+Potion of Radiant Resistance|Item Type|Adventuring Gear|Weight|0.5
+Bullseye lantern|Target|60-foot cone|Duration|6 Hours|Item Type|Adventuring Gear|Range|60/120|Weight|2
+Deck of Illusions|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Spear|Damage Type|Piercing|Alternate Damage|1d8|Item Rarity|Standard|Item Type|Melee Weapon|Alternate Damage Type|Piercing|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Subtype|Simple, Spear|Weight|3
+Potion of Poison Resistance|Item Type|Adventuring Gear|Weight|0.5
+Studded Leather Armor of Fire Resistance|AC|12|Item Type|Light Armor|Weight|13
+Necklace of Adaptation|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Ring of Elemental Command|Item Type|Ring
+Spear +1|Damage Type|Piercing|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Modifiers|Weapon Attacks +1, Weapon Damage +1|Weight|3
+Spear +2|Damage Type|Piercing|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Modifiers|Weapon Attacks +2, Weapon Damage +2|Weight|3
+Amulet of Proof against Detection and Location|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck
+Hide Armor of Necrotic Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Spear +3|Damage Type|Piercing|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Modifiers|Weapon Attacks +3, Weapon Damage +3|Weight|3
+Vicious Blowgun|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1|Properties|Loading, Range|Range|25/100|Weight|1
+Plate Armor of Thunder Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Heavy Crossbow +1|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d10|Properties|Heavy, Loading, Range, Two-Handed|Range|100/400|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|18
+Heavy Crossbow +2|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d10|Properties|Heavy, Loading, Range, Two-Handed|Range|100/400|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|18
+Heavy Crossbow +3|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d10|Properties|Heavy, Loading, Range, Two-Handed|Range|100/400|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|18
+Map or scroll case|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Leather Armor of Radiant Resistance|AC|11|Item Type|Light Armor|Weight|10
+Vicious Sickle|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Weight|2
+Breastplate of Force Resistance|AC|14|Item Type|Medium Armor|Weight|20
+War Pick|Damage Type|Piercing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d8|Subtype|Martial, Pick|Weight|2
+Tome of Leadership and Influence|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|5
+Ring of Cold Resistance|Item Type|Ring
+Leather Armor +3|AC|11|Item Type|Light Armor|Modifiers|Ac +3|Weight|10
+Robe of Scintillating Colors|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Robe
+Vicious Whip|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Reach|Weight|3
+Dart|Damage Type|Piercing|Item Rarity|Standard|Item Type|Ranged Weapon|Damage|1d4|Properties|Finesse, Range, Thrown|Range|20/60|Subtype|Simple|Weight|0.25
+Basket|Item Type|Adventuring Gear|Subtype|Container|Weight|2
+Shield +1|AC|2|Item Type|Shield|Modifiers|Ac +1|Weight|6
+Leather Armor +1|AC|11|Item Type|Light Armor|Modifiers|Ac +1|Weight|10
+Leather Armor +2|AC|11|Item Type|Light Armor|Modifiers|Ac +2|Weight|10
+Shield +3|AC|2|Item Type|Shield|Modifiers|Ac +3|Weight|6
+Shield +2|AC|2|Item Type|Shield|Modifiers|Ac +2|Weight|6
+Cubic Gate|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Belt of Dwarvenkind|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Belt|Modifiers|Constitution +2
+Club +3|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|2
+Club +1|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|2
+Club +2|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|2
+Flask|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Mantle of Spell Resistance|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Shoulders
+Bag of Holding|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|15
+Drum|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|3
+Hide Armor of Force Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Potion of Psychic Resistance|Item Type|Adventuring Gear|Weight|0.5
+Sledge hammer|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|10
+Vicious Trident|Damage Type|Piercing|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Weight|4
+Hempen rope|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|10
+Portable Hole|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Pole|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|7
+Plate Armor of Radiant Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Potion of Mind Reading|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Ring of Swimming|Item Rarity|Uncommon|Item Type|Ring|Subtype|Ring
+Headband of Intellect|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Head|Modifiers|Intelligence: 19
+Dust of Disappearance|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Hooded lantern|Item Rarity|Standard|Duration|6 Hours|Item Type|Adventuring Gear|Range|30/60|Weight|2
+Talisman of Pure Good|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Parchment|Item Rarity|Standard|Item Type|Adventuring Gear
+Sword of Wounding|Item Type|Sword
+Vicious Longbow|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d8|Properties|Heavy, Range, Two-Handed|Range|150/600|Weight|2
+Half Plate Armor +3|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Modifiers|Ac +3|Weight|40
+Vicious Heavy Crossbow|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d10|Properties|Heavy, Loading, Range, Two-Handed|Range|100/400|Weight|18
+Light Hammer +2|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d4|Properties|Light, Thrown|Range|20/60|Modifiers|Melee Attacks +2, Melee Damage +2
+Ring Mail of Fire Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Light Hammer +1|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d4|Properties|Light, Thrown|Range|20/60|Modifiers|Melee Attacks +1, Melee Damage +1
+Sword of Sharpness|Item Type|Sword
+Arrow of Slaying|Item Rarity|Very Rare|Item Type|Ammunition|Subtype|Ammunition|Weight|0.05
+Merchant's scale|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|3
+Half Plate Armor +1|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Modifiers|Ac +1|Weight|40
+Half Plate Armor +2|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Modifiers|Ac +2|Weight|40
+Necklace of Fireballs|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Quarterstaff|Damage Type|Bludgeoning|Alternate Damage|1d8|Item Rarity|Standard|Item Type|Melee Weapon|Alternate Damage Type|Bludgeoning|Damage|1d6|Properties|Versatile|Subtype|Simple, Staff|Weight|4
+Weaver's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|5
+Scimitar +3|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|3
+Net +2|Item Type|Ranged Weapon|Damage|0|Properties|Range, Thrown|Range|5/15|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|3
+Net +3|Item Type|Ranged Weapon|Damage|0|Properties|Range, Thrown|Range|5/15|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|3
+Scale Mail of Necrotic Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Ring of Lightning Resistance|Item Type|Ring
+Net +1|Item Type|Ranged Weapon|Damage|0|Properties|Range, Thrown|Range|5/15|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|3
+Cube of Force|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Scimitar +1|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|3
+Scimitar +2|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|3
+Dice set|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Gaming Set
+Vicious Maul|Damage Type|Bludgeoning|Secondary Damage|2d6|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Weight|10
+Vicious Shortsword|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Weight|2
+Waterskin|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|5
+Half Plate Armor of Force Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Cobbler's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|5
+Herbalism kit|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|3
+Trident +2|Damage Type|Piercing|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Modifiers|Weapon Attacks +2, Weapon Damage +2|Weight|4
+Boots of Elvenkind|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Feet
+Marvelous Pigments|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Trident +1|Damage Type|Piercing|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Modifiers|Weapon Attacks +1, Weapon Damage +1|Weight|4
+Amulet of the Planes|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Trident +3|Damage Type|Piercing|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Modifiers|Weapon Attacks +3, Weapon Damage +3|Weight|4
+Pearl of Power|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Hide Armor of Lightning Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Jug|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|4
+Spiked Armor of Psychic Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Chain Mail of Force Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Medallion of Thoughts|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Half Plate|AC|15|Item Rarity|Standard|Stealth|Disadvantage|Item Type|Medium Armor|Subtype|Armor|Weight|40
+Ring of Animal Influence|Item Rarity|Rare|Item Type|Ring|Subtype|Ring
+Horn of Valhalla|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Greataxe +2|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d12|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|7
+Staff of Withering|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Greataxe +3|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d12|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|7
+Magnifying glass|Item Rarity|Standard|Item Type|Adventuring Gear
+Winged Boots|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Feet
+Greataxe +1|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d12|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|7
+Spyglass|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Chain Shirt of Lightning Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Defender|Item Rarity|Legendary|Item Type|Weapon (any sword)|Subtype|Sword
+Dungeoneer's Pack|Item Rarity|Standard|Subtype|Equipment Pack
+Hourglass|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Plate Armor of Acid Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Chain Mail of Necrotic Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Adamantine Armor|Item Type|Armor (medium or heavy, but not hide)
+Breastplate|AC|14|Item Type|Medium Armor|Subtype|Armor|Weight|20
+Manual of Gainful Exercise|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|5
+Spellguard Shield|AC|2|Item Rarity|Very Rare|Item Type|Shield|Subtype|Shield|Weight|6
+Wand of Secrets|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Elven Chain|AC|13|Item Rarity|Rare|Duration|No|Item Type|Medium Armor|Subtype|Armor|Modifiers|Ac +1|Weight|20
+Handaxe|Damage Type|Slashing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d6|Properties|Light, Range, Thrown|Range|20/60|Subtype|Simple, Axe|Weight|2
+Horn of Blasting|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|2
+Shortbow|Damage Type|Piercing|Item Rarity|Standard|Item Type|Ranged Weapon|Damage|1d6|Properties|Ammunition, Range, Two-Handed|Range|80/320|Subtype|Simple, Bow|Weight|2
+Shawm|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|1
+Spiked Armor of Poison Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Scale Mail of Cold Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Grappling hook|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|4
+Pan flute|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|2
+Poisoner's kit|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|2
+Padded Armor of Psychic Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Hand Crossbow +2|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d6|Properties|Light, Loading, Range|Range|30/120|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|3
+Navigator's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|2
+Spiked Armor of Force Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Hand Crossbow +3|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d6|Properties|Light, Loading, Range|Range|30/120|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|3
+Leather Armor of Poison Resistance|AC|11|Item Type|Light Armor|Weight|10
+Hand Crossbow +1|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d6|Properties|Light, Loading, Range|Range|30/120|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|3
+Cloak of Elvenkind|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Shoulders
+Acid|Damage Type|Acid|Item Type|Adventuring Gear|Damage|2d6|Properties|Improvised Weapons|Range|20/60|Subtype|Consumable|Weight|1
+Chain Mail of Poison Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Vorpal Scimitar|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|3
+Vicious War Pick|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Weight|2
+Elemental Gem|Item Rarity|No|Duration|Uncommon|Item Type|Adventuring Gear
+Arrows|Item Type|Ammunition|Subtype|Ammunition|Weight|0.05
+Boots of Speed|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Feet
+Bracers of Defense|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Arms|Modifiers|Ac +2
+Sickle|Damage Type|Slashing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Subtype|Simple, Sickle|Weight|2
+Longsword|Damage Type|Slashing|Alternate Damage|1d10|Item Rarity|Standard|Item Type|Melee Weapon|Alternate Damage Type|Slashing|Damage|1d8|Properties|Versatile|Subtype|Martial, Sword|Weight|3
+Oil of Sharpness|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Amulet of Health|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Modifiers|Constitution: 19|Weight|1
+Dwarven Plate|AC|18|Item Rarity|Very Rare|Stealth|Disadvantage|Item Type|Heavy Armor|Subtype|Armor|Modifiers|Ac +2|Weight|65
+Light Crossbow +2|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d8|Properties|Loading, Range, Two-Handed|Range|80/320|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|5
+Crowbar|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|5
+Light Crossbow +1|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d8|Properties|Loading, Range, Two-Handed|Range|80/320|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|5
+Alchemist's Supplies|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|8
+Component pouch|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|2
+Light Crossbow +3|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d8|Properties|Loading, Range, Two-Handed|Range|80/320|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|5
+Vorpal Greatsword|Damage Type|Slashing|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|6
+Scale Mail +2|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Modifiers|Ac +2|Weight|45
+Splint Armor of Lightning Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Scale Mail +3|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Modifiers|Ac +3|Weight|45
+Scale Mail +1|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Modifiers|Ac +1|Weight|45
+Breastplate of Radiant Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Spiked Armor of Cold Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Chain Shirt of Force Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Priest's Pack|Item Rarity|Standard|Subtype|Equipment Pack
+Chest|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|25
+Heartstone|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Hide Armor|AC|12|Item Rarity|Standard|Item Type|Medium Armor|Subtype|Armor|Weight|12
+Longsword +1|Damage Type|Slashing|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|3
+Longsword +2|Damage Type|Slashing|Alternate Damage|1d10|Item Type|Melee Weapon|Alternate Damage Type|Slashing|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|3
+Vicious Sling|Damage Type|Bludgeoning|Item Type|Ranged Weapon|Damage|1d4|Properties|Range|Range|30/120|Weight|0
+Longsword +3|Damage Type|Slashing|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|3
+Javelin +2|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown|Range|30/120|Modifiers|Weapon Attacks +2, Weapon Damage +2|Weight|2
+Javelin +3|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown|Range|30/120|Modifiers|Weapon Attacks +3, Weapon Damage +3|Weight|2
+Javelin +1|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown|Range|30/120|Modifiers|Weapon Attacks +1, Weapon Damage +1|Weight|2
+Pike|Damage Type|Piercing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Subtype|Martial, Pike|Weight|18
+Plate Armor of Etherealness|AC|18|Item Rarity|Legendary|Stealth|Disadvantage|Item Type|Heavy Armor|Subtype|Armor|Weight|65
+Chalk|Item Rarity|Standard|Item Type|Adventuring Gear
+Potion of Growth|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Vicious Warhammer|Damage Type|Bludgeoning|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Weight|2
+Chain Shirt +2|AC|13|Item Type|Medium Armor|Modifiers|Ac +2|Weight|20
+Chain Shirt +3|AC|13|Item Type|Medium Armor|Modifiers|Ac +3|Weight|20
+Vicious Longsword|Damage Type|Slashing|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Weight|3
+Cartographer's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|6
+Dagger +1|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Light, Range, Thrown|Range|20/60|Modifiers|Weapon Attacks +1, Weapon Damage +1|Weight|1
+Dagger +2|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Light, Range, Thrown|Range|20/60|Modifiers|Weapon Attacks +2, Weapon Damage +2|Weight|1
+Carpet of Flying|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Dagger +3|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Light, Range, Thrown|Range|20/60|Modifiers|Weapon Attacks +3, Weapon Damage +3|Weight|1
+Staff of Thunder and Lightning|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Chain Shirt +1|AC|13|Item Type|Medium Armor|Modifiers|Ac +1|Weight|20
+Breastplate of Thunder Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Chain|Item Type|Adventuring Gear|Weight|10
+Blowgun +1|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1|Properties|Loading, Range|Range|25/100|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|1
+Splint Armor +2|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +2|Weight|60
+Blowgun +2|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1|Properties|Loading, Range|Range|25/100|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|1
+Splint Armor +3|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +3|Weight|60
+Blowgun +3|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1|Properties|Loading, Range|Range|25/100|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|1
+Cape of the Mountebank|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Shoulders, Cape
+Splint Armor +1|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +1|Weight|60
+Breastplate of Necrotic Resistance|AC|14|Item Type|Medium Armor|Weight|20
+Signal whistle|Item Rarity|Standard|Item Type|Adventuring Gear
+Chain Mail of Thunder Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Halberd +2|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|6
+Halberd +1|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|6
+Eyes of Charming|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Eyes
+Periapt of Health|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Spiked Armor of Fire Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Chain Shirt of Cold Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Halberd +3|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|6
+Battleaxe|Damage Type|Slashing|Alternate Damage|1d10|Item Rarity|Standard|Item Type|Melee Weapon|Alternate Damage Type|Slashing|Damage|1d8|Properties|Versatile|Subtype|Martial, Axe|Weight|4
+Ring Mail of Lightning Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Instant Fortress|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Ring of Invisibility|Item Rarity|Legendary|Item Type|Ring|Subtype|Ring
+Robe of Eyes|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Robe
+Cloak of the Manta Ray|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Shoulders
+Ring of Shooting Stars|Item Rarity|Very Rare|Item Type|Ring|Subtype|Ring
+Handy Haversack|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Studded Leather Armor of Poison Resistance|AC|12|Item Type|Light Armor|Weight|13
+Ring of Force Resistance|Item Type|Ring
+Pouch|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Horseshoes of Speed|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Sickle +1|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|2
+Holy Avenger|Item Type|Weapon (any sword)
+Studded Leather Armor of Psychic Resistance|AC|12|Item Type|Light Armor|Weight|13
+Ioun Stone|Item Type|Wondrous
+Robe of the Archmagi|AC|15|Item Rarity|Legendary|Item Type|Light Armor|Subtype|Wondrous Item, Robe|Modifiers|Spell Attack +2, Spell DC +2
+Vicious Quarterstaff|Damage Type|Bludgeoning|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Versatile|Weight|4
+Sickle +3|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|2
+Sickle +2|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d4|Properties|Light|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|2
+Ring of Necrotic Resistance|Item Type|Ring
+Warhammer +2|Damage Type|Bludgeoning|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|2
+Chime of Opening|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|1
+Warhammer +1|Damage Type|Bludgeoning|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|2
+Warhammer +3|Damage Type|Bludgeoning|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|2
+Woodcarver's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|5
+Brazier of Commanding Fire Elementals|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|5
+Wand of Web|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Ring Mail of Thunder Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Robes|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Robe|Weight|4
+Vicious Flail|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d8|Weight|2
+Periapt of Proof against Poison|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck
+Mace of Terror|Damage Type|Bludgeoning|Item Rarity|Rare|Item Type|Melee Weapon|Damage|1d6|Subtype|Simple, Mace|Weight|4
+Ring of Djinni Summoning|Item Rarity|Legendary|Item Type|Ring|Subtype|Ring
+Longbow|Damage Type|Piercing|Item Rarity|Standard|Item Type|Ranged Weapon|Damage|1d8|Properties|Ammunition, Heavy, Range, Two-Handed|Range|150/600|Subtype|Martial, Bow|Weight|2
+Gloves of Missile Snaring|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Hands
+Oil|Damage Type|Fire|Item Rarity|Standard|Duration|2 Rounds|Item Type|Adventuring Gear|Damage|5|Properties|Improvised Weapons|Range|20/60|Weight|1
+Ring of Protection|Item Rarity|Rare|Item Type|Ring|Subtype|Ring|Modifiers|Ac +1, Saving Throws +1
+Restorative Ointment|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Wand of Fear|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Circlet of Blasting|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Head
+Ring of Thunder Resistance|Item Type|Ring
+Half Plate Armor of Thunder Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Blowgun|Damage Type|Piercing|Item Rarity|Standard|Item Type|Ranged Weapon|Damage|1|Properties|Loading, Range|Range|25/100|Subtype|Martial, Blowgun|Weight|1
+Rapier +3|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Properties|Finesse|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|2
+Rapier +2|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Properties|Finesse|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|2
+Rapier +1|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Properties|Finesse|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|2
+Lamp|Item Rarity|Standard|Duration|6 Hours|Item Type|Adventuring Gear|Range|15/45|Weight|1
+Iron Bands of Binding|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Leatherworker's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|5
+Barrel|Item Type|Adventuring Gear|Weight|70
+Backpack|Item Type|Adventuring Gear|Subtype|Container|Weight|5
+Paper|Item Rarity|Standard|Item Type|Adventuring Gear
+Plate Armor of Poison Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Calligrapher's Supplies|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|5
+Potion of Invisibility|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Spellbook|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|3
+Staff|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Wand|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Arcane Focus|Weight|1
+Tinker's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|10
+Leather Armor of Cold Resistance|AC|11|Item Type|Light Armor|Weight|10
+Vial|Item Rarity|Standard|Item Type|Adventuring Gear
+Flail +3|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|2
+Trident|Damage Type|Piercing|Alternate Damage|1d8|Item Rarity|Standard|Item Type|Melee Weapon|Alternate Damage Type|Piercing|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Subtype|Martial, Trident|Weight|4
+Vicious Spear|Damage Type|Piercing|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Weight|3
+Eversmoking Bottle|Item Rarity|No|Duration|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|1
+Flail +1|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|2
+Flail +2|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|2
+Half Plate Armor of Cold Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Cloak of Displacement|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Shoulders
+Ring of Jumping|Item Rarity|Uncommon|Item Type|Ring|Subtype|Ring
+Ring of the Ram|Item Rarity|Rare|Item Type|Ring|Subtype|Ring
+Potion of Clairvoyance|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Morningstar +1|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|4
+Morningstar +2|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|4
+Morningstar +3|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|4
+Steel mirror|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|0.5
+Potion of Heroism|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Ring Mail of Acid Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Staff of the Woodlands|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Staff|Modifiers|Spell Attack +2|Weight|4
+Hide Armor of Radiant Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Brooch of Shielding|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Pike +1|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|18
+Pike +3|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|18
+Pike +2|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|18
+Potter's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|3
+Light Hammer|Damage Type|Bludgeoning|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d4|Properties|Light, Thrown|Range|20/60|Subtype|Simple, Hammer|Weight|2
+Leather Armor of Lightning Resistance|AC|11|Item Type|Light Armor|Weight|10
+Padded Armor of Necrotic Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Scale Mail of Force Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Greatsword +3|Damage Type|Slashing|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|6
+Chain Mail +2|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +2|Weight|55
+Greatsword +1|Damage Type|Slashing|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|6
+Chain Mail +1|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +1|Weight|55
+Greatsword +2|Damage Type|Slashing|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|6
+Chain Mail +3|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Modifiers|Ac +3|Weight|55
+Figurine of Wondrous Power|Item Type|Adventuring Gear
+Plate Armor of Cold Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Costume clothes|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Clothing|Weight|4
+Greataxe|Damage Type|Slashing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d12|Properties|Heavy, Two-Handed|Subtype|Martial, Axe|Weight|7
+Chain Mail of Cold Resistance|AC|16|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|55
+Leather Armor of Thunder Resistance|AC|11|Item Type|Light Armor|Weight|10
+Shortsword|Damage Type|Piercing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Subtype|Martial, Sword|Weight|2
+Splint Armor of Poison Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Vicious Pike|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Weight|18
+Oil of Etherealness|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Battleaxe +2|Damage Type|Slashing|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|4
+Battleaxe +1|Damage Type|Slashing|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|4
+Battleaxe +3|Damage Type|Slashing|Secondary Damage|1d10|Item Type|Melee Weapon|Damage|1d8|Properties|Versatile|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|4
+Abacus|Item Type|Adventuring Gear|Weight|2
+Dragon Slayer|Item Type|Weapon (any sword)|Subtype|Sword
+Hammer|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|3
+Smith's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|8
+Caltrops|Item Type|Adventuring Gear|Weight|0.1
+Basic poison|Damage Type|Poison|Duration|1 Minute|Save|Constitution|Item Type|Adventuring Gear|Damage|1d4|Subtype|Consumable
+Sling +1|Damage Type|Bludgeoning|Item Type|Ranged Weapon|Damage|1d4|Properties|Range|Range|30/120|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|0
+Bag of Tricks|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Handaxe +1|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Light, Range, Thrown|Range|20/60|Modifiers|Weapon Attacks +1, Weapon Damage +1|Weight|2
+Sling +2|Damage Type|Bludgeoning|Item Type|Ranged Weapon|Damage|1d4|Properties|Range|Range|30/120|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|0
+Sling +3|Damage Type|Bludgeoning|Item Type|Ranged Weapon|Damage|1d4|Properties|Range|Range|30/120|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|0
+Ring of X-ray Vision|Item Rarity|Rare|Item Type|Ring|Subtype|Ring
+Thieves' Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Chain Shirt of Fire Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Wand of Fireballs|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Ring of Water Walking|Item Rarity|Uncommon|Item Type|Ring|Subtype|Ring
+Flame Tongue|Item Type|Weapon (any sword)
+Handaxe +3|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Light, Range, Thrown|Range|20/60|Modifiers|Weapon Attacks +3, Weapon Damage +3|Weight|2
+Handaxe +2|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Light, Range, Thrown|Range|20/60|Modifiers|Weapon Attacks +2, Weapon Damage +2|Weight|2
+Half Plate Armor of Necrotic Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Traveler's clothes|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Clothing|Weight|4
+Talisman of the Sphere|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Alchemist's Fire|Damage Type|Fire|Save|Dexterity|Item Type|Adventuring Gear|Damage|1d4|Properties|Improvised Weapons|Range|20/60|Subtype|Consumable|Weight|1
+Efficient Quiver|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Orb|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Arcane Focus|Weight|3
+Wand of the War Mage 1|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wand|Modifiers|Spell Attack +1|Weight|1
+Helm of Telepathy|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Head
+Wand of the War Mage 2|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wand|Modifiers|Spell Attack +2|Weight|1
+Wand of the War Mage 3|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wand|Modifiers|Spell Attack +3|Weight|1
+Wand of Magic Detection|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Chain Shirt|AC|13|Item Type|Medium Armor|Subtype|Armor|Weight|20
+Armor of Vulnerability|Item Rarity|Rare|Item Type|Heavy Armor|Subtype|Cursed Item, Armor
+Crystal Ball|Item Rarity|very rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|3
+Potion of Giant Strength|Item Type|Adventuring Gear|Subtype|Potion
+Hide Armor of Acid Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Diplomat's Pack|Item Rarity|Standard|Subtype|Equipment Pack
+Wand of Polymorph|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Trident of Fish Command|Damage Type|Piercing|Item Rarity|Uncommon|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Range, Thrown, Versatile|Range|20/60|Subtype|Trident, Martial|Weight|4
+Oil of Slipperiness|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Padded Armor of Force Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Ink pen|Item Rarity|Standard|Item Type|Adventuring Gear
+Amulet|Item Type|Adventuring Gear|Subtype|Neck|Weight|1
+Ring of Free Action|Item Rarity|Rare|Item Type|Ring|Subtype|Ring
+Scale Mail|AC|14|Item Rarity|Standard|Stealth|Disadvantage|Item Type|Medium Armor|Subtype|Armor|Weight|45
+Plate Armor of Psychic Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Greatclub +2|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d8|Properties|Two-Handed|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|10
+Greatclub +3|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d8|Properties|Two-Handed|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|10
+Mason's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|8
+Greatclub +1|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|1d8|Properties|Two-Handed|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|10
+Wand of the War Mage, +3|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wand|Modifiers|Spell Attack +3|Weight|1
+Chain Shirt of Thunder Resistance|AC|13|Item Type|Medium Armor|Weight|20
+Wand of the War Mage, +2|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wand|Modifiers|Spell Attack +2|Weight|1
+Wand of the War Mage, +1|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wand|Modifiers|Spell Attack +1|Weight|1
+Well of Many Worlds|Item Rarity|Legendary|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Oathbow|Damage Type|Piercing|Item Rarity|Very Rare|Item Type|Ranged Weapon|Damage|1d8|Properties|Heavy, Range, Two-Handed|Range|150/600|Subtype|Martial, Bow|Weight|2
+Whip +3|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Reach|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|3
+Vicious Morningstar|Damage Type|Piercing|Item Type|Melee Weapon|Damage|1d8|Weight|4
+Whetstone|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Flute|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|1
+Hand Crossbow|Damage Type|Piercing|Item Rarity|Standard|Item Type|Ranged Weapon|Damage|1d6|Properties|Light, Loading, Range|Range|30/120|Subtype|Martial, Crossbow|Weight|3
+Miner's pick|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|10
+Potion of Climbing|Item Rarity|Common|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Torch|Damage Type|Fire|Item Rarity|Standard|Duration|1 Hour|Item Type|Adventuring Gear|Damage|1|Range|20/40|Weight|1
+Cook's utensils|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|8
+Staff of Charming|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Shortbow +3|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d6|Properties|Range, Two-Handed|Range|80/320|Modifiers|Ranged Attacks +3, Ranged Damage +3|Weight|2
+Book|Item Type|Adventuring Gear|Weight|5
+Shortbow +1|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d6|Properties|Range, Two-Handed|Range|80/320|Modifiers|Ranged Attacks +1, Ranged Damage +1|Weight|2
+Robe of Useful Items|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Robe
+Shortbow +2|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d6|Properties|Range, Two-Handed|Range|80/320|Modifiers|Ranged Attacks +2, Ranged Damage +2|Weight|2
+Helm of Comprehending Languages|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Head
+Yew wand|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Druidic Focus|Weight|1
+Whip +2|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Reach|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|3
+Whip +1|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Reach|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|3
+Splint Armor of Fire Resistance|AC|17|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|60
+Staff of the Python|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Hide Armor of Psychic Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Crossbow bolt case|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|1
+Vicious Light Crossbow|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d8|Properties|Loading, Range, Two-Handed|Range|80/320|Weight|5
+Wand of Enemy Detection|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Maul +1|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|10
+Maul +2|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|10
+Maul +3|Damage Type|Bludgeoning|Item Type|Melee Weapon|Damage|2d6|Properties|Heavy, Two-Handed|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|10
+Padded Armor of Fire Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Antitoxin|Item Type|Adventuring Gear|Subtype|Consumable
+Portable ram|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|35
+Frost Brand|Item Type|Weapon (any sword)
+Staff of Striking|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Staff|Weight|4
+Padded Armor of Thunder Resistance|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Weight|8
+Dust of Dryness|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Stone of Controlling Earth Elementals|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|5
+Ring of Spell Storing|Item Rarity|Rare|Item Type|Ring|Subtype|Ring
+Shovel|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|5
+Ring of Spell Turning|Item Rarity|Legendary|Item Type|Ring|Subtype|Ring
+Necklace of Prayer Beads|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Neck|Weight|1
+Quarterstaff +2|Damage Type|Bludgeoning|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Versatile|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|4
+Quarterstaff +1|Damage Type|Bludgeoning|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Versatile|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|4
+Gloves of Swimming and Climbing|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Hands
+Quarterstaff +3|Damage Type|Bludgeoning|Secondary Damage|1d8|Item Type|Melee Weapon|Damage|1d6|Properties|Versatile|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|4
+Glassblower's Tools|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|5
+Painter's Supplies|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|5
+Totem|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Druidic Focus
+Ladder|Item Rarity|Standard|Item Type|Adventuring Gear|Weight|25
+Potion of Necrotic Resistance|Item Type|Adventuring Gear|Weight|0.5
+Holy Water|Damage Type|Radiant|Item Rarity|Standard|Item Type|Adventuring Gear|Damage|2d6|Properties|Improvised Weapons|Range|20/60|Subtype|Consumable|Weight|1
+Philter of Love|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Efreeti Bottle|Item Rarity|No|Duration|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|1
+Horseshoes of a Zephyr|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Wand of Wonder|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wand|Weight|1
+Candle of Invocation|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Soap|Item Rarity|Standard|Item Type|Adventuring Gear
+Studded Leather Armor|AC|12|Item Rarity|Standard|Item Type|Light Armor|Subtype|Armor|Weight|13
+Hide Armor +3|AC|12|Item Type|Medium Armor|Modifiers|Ac +3|Weight|12
+Hide Armor +2|AC|12|Item Type|Medium Armor|Modifiers|Ac +2|Weight|12
+Hide Armor +1|AC|12|Item Type|Medium Armor|Modifiers|Ac +1|Weight|12
+Berserker Axe|Item Type|Weapon (any axe)
+Potion of Speed|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Vicious Greataxe|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d12|Properties|Heavy, Two-Handed|Weight|7
+Manual of Bodily Health|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|5
+Vicious Scimitar|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d6|Properties|Finesse, Light|Weight|3
+Ring of Feather Falling|Item Rarity|Rare|Item Type|Ring|Subtype|Ring
+Boots of Striding and Springing|Requires Attunement|requires attunement|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Feet
+Plate Armor of Force Resistance|AC|18|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|65
+Studded Leather Armor of Acid Resistance|AC|12|Item Type|Light Armor|Weight|13
+Robe of Stars|Requires Attunement|requires attunement|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Robe|Modifiers|Saving Throws +1
+Half Plate Armor of Radiant Resistance|AC|15|Stealth|Disadvantage|Item Type|Medium Armor|Weight|40
+Climber's kit|Item Rarity|Very Rare|Item Type|Adventuring Gear|Weight|12
+Scale Mail of Acid Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Glaive +1|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +1, Melee Damage +1|Weight|6
+Glaive +2|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +2, Melee Damage +2|Weight|6
+Crossbow bolts|Item Rarity|Standard|Item Type|Ammunition|Subtype|Ammunition|Weight|0.075
+Glaive +3|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Modifiers|Melee Attacks +3, Melee Damage +3|Weight|6
+Ring of Regeneration|Item Rarity|Very Rare|Item Type|Ring|Subtype|Ring
+Slippers of Spider Climbing|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item, Feet
+Wind Fan|Item Rarity|Uncommon|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Scale Mail of Poison Resistance|AC|14|Stealth|Disadvantage|Item Type|Medium Armor|Weight|45
+Ink|Item Rarity|Standard|Item Type|Adventuring Gear
+Lance|Damage Type|Piercing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d12|Properties|Reach|Subtype|Martial, Lance|Weight|6
+Signet ring|Item Rarity|Standard|Item Type|Adventuring Gear
+Studded Leather Armor of Force Resistance|AC|12|Item Type|Light Armor|Weight|13
+Ring Mail of Cold Resistance|AC|14|Stealth|Disadvantage|Item Type|Heavy Armor|Weight|40
+Padded Armor +3|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Modifiers|Ac +3|Weight|8
+Padded Armor +2|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Modifiers|Ac +2|Weight|8
+Entertainer's Pack|Item Rarity|Standard|Subtype|Equipment Pack
+Potion of Flying|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Potion|Weight|0.5
+Splint Armor|AC|17|Item Rarity|Standard|Stealth|Disadvantage|Item Type|Heavy Armor|Subtype|Armor|Weight|60
+Common clothes|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Clothing|Weight|3
+Viol|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Musical Instrument|Weight|1
+Ring of Mind Shielding|Item Rarity|Uncommon|Item Type|Ring|Subtype|Ring
+Vicious Glaive|Damage Type|Slashing|Item Type|Melee Weapon|Damage|1d10|Properties|Heavy, Reach, Two-Handed|Weight|6
+Dust of Sneezing and Choking|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Wondrous Item
+Tome of Clear Thought|Item Rarity|Very Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item|Weight|5
+Padded Armor +1|AC|11|Stealth|Disadvantage|Item Type|Light Armor|Modifiers|Ac +1|Weight|8
+Cloak of the Bat|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wondrous Item, Shoulders
+Hide Armor of Cold Resistance|AC|12|Item Type|Medium Armor|Weight|12
+Vicious Dart|Damage Type|Piercing|Item Type|Ranged Weapon|Damage|1d4|Properties|Finesse, Range, Thrown|Range|20/60|Weight|0.25
+Glamoured Studded Leather|AC|12|Item Rarity|Rare|Item Type|Light Armor|Subtype|Armor|Modifiers|Ac +1|Weight|13
+Perfume|Item Rarity|Standard|Item Type|Adventuring Gear
+Disguise kit|Item Rarity|Standard|Item Type|Adventuring Gear|Subtype|Artisan's Tools|Weight|3
+Leather Armor of Acid Resistance|AC|11|Item Type|Light Armor|Weight|10
+Dancing Sword|Item Rarity|Very Rare|Item Type|Weapon (any sword)|Subtype|Sword
+Whip|Damage Type|Slashing|Item Rarity|Standard|Item Type|Melee Weapon|Damage|1d4|Properties|Finesse, Reach|Subtype|Martial, Whip|Weight|3
+Wand of Binding|Item Rarity|Rare|Item Type|Adventuring Gear|Subtype|Wand|Weight|1

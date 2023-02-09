@@ -83,9 +83,9 @@ public class ItemScraper {
     });
   }
   public static void writeToCSV(ConcurrentHashMap<String, HashMap<String, String>> items) throws IOException{
-    File outfile = new File("Roll20Items.csv");
-    FileWriter outFileWriter = new FileWriter(outfile);
-    String delim = ",";
+    //File outfile = new File("/src/Data/Roll20Items.csv");
+    FileWriter outFileWriter = new FileWriter("Data/Roll20Items.csv");
+    String delim = "|";
     //determine max number of attributes
     int max = 0;
     for(String key: items.keySet()){
@@ -96,7 +96,6 @@ public class ItemScraper {
     //have accurate max here
     //header row
     outFileWriter.append("Item Name");
-    outFileWriter.append(delim);
     for(int i = 0; i<max; ++i){
       outFileWriter.append(delim);
       outFileWriter.append("AttributeName"+i);
