@@ -52,12 +52,15 @@ public class ItemScraper {
         // Make one request per item to get attributes
         for (String key : itemData.keySet()) {
           try {
-            // System.out.println(key);
+            System.out.println(key);
             String url1 = "https://roll20.net" + itemData.get(key);
             Document resp1 = Jsoup.connect(url1).get();
             Document soup1 = resp1;
+            String desc = soup1.select("meta[name=description]").attr("content");
+            System.out.println(desc);
             Elements attributes = soup1.select(".row.attrListItem");
             HashMap<String, String> attributesDict = new HashMap<>();
+            attributesDict.put("desc",desc);
             for (Element attribute : attributes) {
               String name = attribute.selectFirst(".col-md-3.attrName").text();
               String value = attribute.selectFirst(".value").text();
@@ -70,6 +73,7 @@ public class ItemScraper {
         }
       } catch (IOException e){
         System.out.println("oops");
+        System.out.println(e);
       }
     }).thenAccept(completeItems -> {
       System.out.println("Done");
@@ -84,7 +88,7 @@ public class ItemScraper {
   }
   public static void writeToCSV(ConcurrentHashMap<String, HashMap<String, String>> items) throws IOException{
     //File outfile = new File("/src/Data/Roll20Items.csv");
-    FileWriter outFileWriter = new FileWriter("Data/Roll20Items.csv");
+    FileWriter outFileWriter = new FileWriter("Roll20Items.csv");
     String delim = "|";
     //determine max number of attributes
     int max = 0;
@@ -96,6 +100,8 @@ public class ItemScraper {
     //have accurate max here
     //header row
     outFileWriter.append("Item Name");
+    outFileWriter.append(delim);
+    outFileWriter.append("Item Desc");
     for(int i = 0; i<max; ++i){
       outFileWriter.append(delim);
       outFileWriter.append("AttributeName"+i);
