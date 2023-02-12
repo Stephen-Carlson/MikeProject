@@ -12,18 +12,12 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.io.File;
 import java.io.FileWriter;
 
 public class ItemScraper {
-  private static final ExecutorService executor = Executors.newFixedThreadPool(30);
-  private static final  ConcurrentHashMap<String, HashMap<String, String>> completeItems = new ConcurrentHashMap<>();
 
-  public static void main(String[] args) throws Exception {
-    ScrapeItemsAsync().get();
-    executor.shutdown();
-  }
-  public static CompletableFuture<Void> ScrapeItemsAsync() {
+  public static final  ConcurrentHashMap<String, HashMap<String, String>> completeItems = new ConcurrentHashMap<>();
+  public static CompletableFuture<ConcurrentHashMap<String, HashMap<String, String>>> ScrapeItemsAsync() {
     return CompletableFuture.runAsync(() -> {
       try {
         // Make a GET request to the URL
@@ -52,12 +46,12 @@ public class ItemScraper {
         // Make one request per item to get attributes
         for (String key : itemData.keySet()) {
           try {
-            System.out.println(key);
+            //System.out.println(key);
             String url1 = "https://roll20.net" + itemData.get(key);
             Document resp1 = Jsoup.connect(url1).get();
             Document soup1 = resp1;
-            String desc = soup1.select("meta[name=description]").attr("content");
-            System.out.println(desc);
+            String desc = soup1.select("meta[name=description]").attr("content").trim().replaceAll("\n", "");;
+            //System.out.println(desc);
             Elements attributes = soup1.select(".row.attrListItem");
             HashMap<String, String> attributesDict = new HashMap<>();
             attributesDict.put("desc",desc);
@@ -75,7 +69,7 @@ public class ItemScraper {
         System.out.println("oops");
         System.out.println(e);
       }
-    }).thenAccept(completeItems -> {
+    }).thenApply(aVoid -> {
       System.out.println("Done");
       // System.out.println(ItemScraper.completeItems.size());
       // System.out.println(ItemScraper.completeItems.get("Shortbow"));
@@ -84,6 +78,7 @@ public class ItemScraper {
       } catch (IOException e) {
         e.printStackTrace();
       }
+      return completeItems;
     });
   }
   public static void writeToCSV(ConcurrentHashMap<String, HashMap<String, String>> items) throws IOException{
@@ -100,8 +95,6 @@ public class ItemScraper {
     //have accurate max here
     //header row
     outFileWriter.append("Item Name");
-    outFileWriter.append(delim);
-    outFileWriter.append("Item Desc");
     for(int i = 0; i<max; ++i){
       outFileWriter.append(delim);
       outFileWriter.append("AttributeName"+i);
