@@ -1,0 +1,2 @@
+ClientID:329073482014-dbnumd6f6tapc8c17pklbafpu4vjbq7s.apps.googleusercontent.com
+ClientSecret: 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

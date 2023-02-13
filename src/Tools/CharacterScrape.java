@@ -1,50 +1,57 @@
-import java.io.BufferedReader;
-import java.io.DataOutputStream;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.Base64;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.http.HttpEntity;
+import org.apache.http.NameValuePair;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClientBuilder;
+import org.apache.http.message.BasicNameValuePair;
+import org.apache.http.util.EntityUtils;
 
 public class CharacterScrape {
-  private final String USER_AGENT = "Mozilla/5.0";
+  private String code;
+  private String clientId;
+  private String clientSecret;
+  private String redirectUri;
 
-  public static void main(String[] args) throws Exception {
-    CharacterScrape http = new CharacterScrape();
-    System.out.println("Sending request...");
-    http.sendGet();
+  public CharacterScrape(String code, String clientId, String clientSecret, String redirectUri) {
+    this.code = code;
+    this.clientId = clientId;
+    this.clientSecret = clientSecret;
+    this.redirectUri = redirectUri;
   }
 
-  // HTTP GET request
-  private void sendGet() throws Exception {
-    String url = "https://www.dndbeyond.com/campaigns/1495997";
-    URL obj = new URL(url);
-    HttpURLConnection con = (HttpURLConnection) obj.openConnection();
+  public void scrape() throws IOException {
+    CloseableHttpClient httpClient = HttpClientBuilder.create().build();
+    try {
+      HttpPost request = new HttpPost("https://oauth2.googleapis.com/token");
 
-    // Add request header
-    con.setRequestMethod("GET");
-    con.setRequestProperty("User-Agent", USER_AGENT);
-    con.setRequestProperty("Accept-Language", "en-US,en;q=0.5");
+      List<NameValuePair> requestParams = new ArrayList<>();
+      requestParams.add(new BasicNameValuePair("code", code));
+      requestParams.add(new BasicNameValuePair("client_id", clientId));
+      requestParams.add(new BasicNameValuePair("client_secret", clientSecret));
+      requestParams.add(new BasicNameValuePair("redirect_uri", redirectUri));
+      requestParams.add(new BasicNameValuePair("grant_type", "authorization_code"));
 
-    // Add authorization header
-    String auth = "your_username:your_password";
-    byte[] encodedAuth = Base64.getEncoder().encode(auth.getBytes());
-    String authHeaderValue = "Basic " + new String(encodedAuth);
-    con.setRequestProperty("Authorization", authHeaderValue);
+      request.setEntity(new UrlEncodedFormEntity(requestParams));
 
-    // Send request
-    int responseCode = con.getResponseCode();
-    System.out.println("Response Code : " + responseCode);
-
-    BufferedReader in = new BufferedReader(
-        new InputStreamReader(con.getInputStream()));
-    String inputLine;
-    StringBuilder response = new StringBuilder();
-
-    while ((inputLine = in.readLine()) != null) {
-      response.append(inputLine);
+      CloseableHttpResponse response = httpClient.execute(request);
+      try {
+        HttpEntity responseEntity = response.getEntity();
+        if (responseEntity != null) {
+          String responseJson = EntityUtils.toString(responseEntity);
+          // Parse the JSON to extract the access token
+        }
+      } finally {
+        response.close();
+      }
+    } finally {
+      httpClient.close();
     }
-    in.close();
-
-    System.out.println(response.toString());
   }
 }
